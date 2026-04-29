@@ -23,7 +23,7 @@ repository               : "J-Ngaii/J-Ngaiii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1938.png"
+  avatar           : "IMG_1938.jpeg"
   name             : "Jonathan"
   pronouns         : # example: "she/her"  
   bio              : "AI @ BAIR | Prev ML @ Berkeley Lab | MStats @ Berkeley"
