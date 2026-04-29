@@ -13,7 +13,7 @@ title                    : "Jonathan Ngai / Personal Website"
 title_separator          : "-"
 name                     : &name "Jonathan Ngai"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://J-Ngaiii.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://j-ngaiii.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "J-Ngaii/J-Ngaiii.github.io"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
