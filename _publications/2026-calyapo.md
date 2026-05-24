@@ -7,7 +7,7 @@ excerpt: 'This is my honors thesis on LoRA finetuning LLMs for California Public
 date: 2026-05-15
 venue: 'Berkeley, CA'
 slidesurl: ''
-paperurl: ''
+paperurl: 'https://drive.google.com/file/d/1YVV5-HEzUmX5GcLrSGX0s8CSaYJsT-rx/view?usp=sharing'
 citation: 'Jonathan Ngai, Erin Hartman (2026) Bay-propagation: Simulating California Political Opinion with Finetuned LLMs.'
 ---
 
