@@ -26,7 +26,7 @@ author:
   avatar           : "cool_grad.png"
   name             : "Jonathan"
   pronouns         : # example: "she/her"  
-  bio              : "AI @ BAIR | Prev ML @ Berkeley Lab | MStats @ Berkeley"
+  bio              : "Master of Stats @ Berkeley | Prev AI @ BAIR | Prev ML @ Berkeley Lab"
   location         : "Berkeley, CA"
   employer         : "University of California, Berkeley"
   uri              : # URL
@@ -84,6 +84,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  honors:
+    title: 'Honors Thesis'
   books:
     title: 'Books'
   manuscripts:
