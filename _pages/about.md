@@ -14,8 +14,11 @@ Feel free to contact me at jngai_[at]berkeley[dot]edu!
 What I've been up to
 ======
 - May, 2026: Graduated from UC Berkeley with my undergrad degrees and as one of ten Honors Data Science students!
-- May, 2026: presented at the Berkeley Data Science Symposium.
+- May, 2026: Presented my Honors Thesis (CalYAPo) at the Berkeley Data Science Symposium.
 - April, 2026: defended my thesis in front of my other students in the Data Science Honors Program and our course instructor, Professor Narges Norouzi.
-- Feb, 2026: presented on latent ideology embeddings and LLMs for vote choice prediction at Professor Serina Chang's lab within BAIR.
+- Feb, 2026: Presented research on latent ideology embeddings and LoRA finetuning LLMs for public opinion and vote choice prediction at Professor Serina Chang's lab within BAIR.
+- Feb, 2026: Accepted into the Berkeley Master of Statistics & Data Science Program.
+- August, 2025: Presented my work on modular LLM data orchestration layers and integrating skip connections into genomic language model finetuning adapters at the Arkin Lab Undergraduate Symposium
+- April, 2025: Presented my work on creating a data orchestration layer for preprocessing genomic data for genomic language models at the Arkin Lab Undergraduate  Symposium
 
 
