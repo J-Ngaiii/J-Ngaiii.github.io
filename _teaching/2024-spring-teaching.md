@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/csm88
 venue: "University of California Berkeley, Computer Science Mentors"
-date: 2024-02
+date: 2024-02-04
 location: "Berkeley, CA"
 ---
 
