@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Senior Associate Mentor (Computer Science Mentors), Comp Sci C88C"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/csm88
+venue: "University of California Berkeley, Computer Science Mentors"
+date: 2024-02
+location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I joined Computer Science Mentors @ Berkeley my Sophmore Spring in 2024 as a Junior Mentor for the CS88: Computational Structures in Data Science. I then served as an Associate Mentor for Fall 2024, Senior Mentor for Spring 2025 and Fall 2025 before finally serving as an Senior Associate Mentor for Spring 2026. I helped create pratice midterms, host review sessions and regurlarly taught a small group of 5 students weekly. Course content covered data structures (lists, linkedlist, trees, etc) and computing concepts (recursion, object oriented programming) in Python and SQL. 
