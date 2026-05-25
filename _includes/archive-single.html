@@ -53,12 +53,12 @@
     {% endif %}
     
     {% if post.citation %}
-      {% if post.paperurl %}
+      {% if post.paperurl and post.paperurl != "" %}
         <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}" target="_blank">Open Paper in New Tab</a></p>
       {% else %}
         <p>Recommended citation: {{ post.citation }}</p>
       {% endif %}
-    {% elsif post.paperurl %}
+    {% elsif post.paperurl and post.paperurl != "" %}
       <p><a href="{{ post.paperurl }}" target="_blank">Open Paper in New Tab</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>

@@ -48,12 +48,12 @@ layout: default
         {{ content }}
 
         {% if page.citation %}
-          {% if page.paperurl %}
+          {% if page.paperurl and page.paperurl != "" %}
             <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}" target="_blank">Open Paper in New Tab</a></p>
           {% else %}
             <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
           {% endif %}
-        {% elsif page.paperurl %}
+        {% elsif page.paperurl and page.paperurl != "" %}
           <p style="font-size: smaller"><a href="{{ page.paperurl }}" target="_blank">Open Paper in New Tab</a></p>
         {% elsif page.bibtexurl %}
           <p style="font-size: smaller"><a href="{{ page.bibtexurl }}">Download Bibtex</a></p>
