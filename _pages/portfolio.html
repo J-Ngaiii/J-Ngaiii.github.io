@@ -3,12 +3,14 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+published: false
 ---
 
 {% include base_path %}
 
-
+{%- comment -%}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+{%- endcomment -%}
 
