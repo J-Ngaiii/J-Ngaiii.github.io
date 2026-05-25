@@ -11,9 +11,9 @@ My name is Jonathan. I'm currently a Master of Statistics and Data Science stude
 
 What I've been up to
 ======
-- May, 2026: Graduated from UC Berkeley with my undergrad degrees!
+- May, 2026: Graduated from UC Berkeley with my undergrad degrees and as one of ten Honors Data Science students!
 - May, 2026: presented at the Berkeley Data Science Symposium.
-- April, 2026: defended my thesis in front of my Data Science Honors Program course instructor, Professor Narges Norouzi.
+- April, 2026: defended my thesis in front of my other students in the Data Science Honors Program and our course instructor, Professor Narges Norouzi.
 - Feb, 2026: presented on latent ideology embeddings and LLMs for vote choice prediction at Professor Serina Chang's lab within BAIR.
 
 
