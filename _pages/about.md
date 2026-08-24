@@ -13,6 +13,8 @@ Feel free to contact me at jngai_[at]berkeley[dot]edu!
 
 What I've been up to
 ======
+- August, 2026: Began my 5th year Masters in Statistics & Data Science at UC Berkeley 
+- Summer, 2026: Worked on applied AI engineering and research at Deloitte
 - May, 2026: Graduated from UC Berkeley with my undergrad degrees and as one of ten Honors Data Science students!
 - May, 2026: Presented my Honors Thesis (CalYAPo) at the Berkeley Data Science Symposium.
 - April, 2026: defended my thesis in front of my other students in the Data Science Honors Program and our course instructor, Professor Narges Norouzi.
